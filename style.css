@@ -1,0 +1,17 @@
+*{margin: 0;
+  padding: 0; 
+}
+
+.bg00{
+width: 100vw;
+height: 100vh;
+background-size: cover;
+background-position: center;
+display: flex;
+justify-content: center;
+}
+
+.bg01{background-image: url(img/bg1.png);align-items: center;}
+.bg02{background-image: url(img/bg2.png);align-items: center;}
+.bg03{background-image: url(img/bg3.png);align-items: end;}
+.bg04{background-image: url(img/bg4.png);align-items: center;}
